@@ -1,6 +1,6 @@
 ---
 title: "Giacomo Lemoli"
-description: "Postdoctoral Researcher at Franklin University Switzerland"
+description: "Postdoctoral Researcher at Franklin Switzerland"
 page-layout: full
 ---
 
@@ -8,7 +8,7 @@ page-layout: full
 ::: {.profile-section}
 
 ::: {.profile-left}
-![Giacomo Lemoli](assets/avatar.jpg){.avatar}
+<img src="assets/avatar.jpg" alt="Giacomo Lemoli" class="avatar">
 
 ::: {.social-links}
 <a href="mailto:glemoli@fus.edu" title="Email" class="social-icon"><i class="fa-solid fa-envelope"></i></a>
@@ -28,11 +28,11 @@ page-layout: full
 
 ### Postdoctoral Researcher {.profile-role}
 
-**[Franklin University Switzerland](https://www.fus.edu/){target="_blank"}**
+**[Franklin Switzerland](https://www.fus.edu/){target="_blank"}**
 
 ---
 
-I am a Postdoctoral Researcher at [Franklin University Switzerland](https://www.fus.edu/){target="_blank"}, where I work on the SNSF-funded project [DIVIDE](https://data.snf.ch/grants/grant/10003605){target="_blank"}, led by [Oliver Strijbis](https://oliverstrijbis.com/){target="_blank"}. Before that, I was a Research Fellow at the [Institute for Advanced Study in Toulouse](https://www.iast.fr/){target="_blank"}. I hold a PhD in Politics from [New York University](https://as.nyu.edu/politics.html){target="_blank"} and an MSc in Economic and Social Sciences from [Bocconi University](https://www.unibocconi.eu/){target="_blank"}.
+I am a Postdoctoral Researcher at [Franklin Switzerland](https://www.fus.edu/){target="_blank"}, where I work on the SNSF-funded project [DIVIDE](https://data.snf.ch/grants/grant/10003605){target="_blank"}, led by [Oliver Strijbis](https://oliverstrijbis.com/){target="_blank"}. Before that, I was a Research Fellow at the [Institute for Advanced Study in Toulouse](https://www.iast.fr/){target="_blank"}. I hold a PhD in Politics from [New York University](https://as.nyu.edu/politics.html){target="_blank"} and an MSc in Economic and Social Sciences from [Bocconi University](https://www.unibocconi.eu/){target="_blank"}.
 
 In January 2027 I will join the Department of Quantitative Methods at [CUNEF Universidad](https://www.cunef.edu/){target="_blank"} as an Assistant Professor.
 
@@ -42,26 +42,6 @@ I am interested in combining econometrics, data science, and experiments to test
 
 My research is published or forthcoming at the *American Journal of Political Science* and *Comparative Political Studies* and has been funded by [UNU-WIDER](https://www.wider.unu.edu/){target="_blank"}, the [Institute for Humane Studies](https://theihs.org/){target="_blank"}, and other institutions.
 
----
-
-::: {.profile-details}
-::: {.interests}
-**Interests**
-
-- Comparative Politics
-- Political Economy
-- Ethnic Politics
-- Development
-:::
-
-::: {.education}
-**Education**
-
-- <i class="fa-solid fa-graduation-cap"></i> PhD in Politics, 2023 — New York University
-- <i class="fa-solid fa-graduation-cap"></i> MSc Economic and Social Sciences, 2017 — Bocconi University
-- <i class="fa-solid fa-graduation-cap"></i> BSc International Economics, Management and Finance, 2014 — Bocconi University
-:::
-:::
 
 :::
 
