@@ -1,0 +1,20 @@
+---
+title: "Course Title"
+subtitle: "Semester Year · Institution"
+---
+
+## Welcome
+
+Brief description of the course — what students will learn, themes covered, and goals.
+
+## Schedule Overview
+
+| Week | Topic | Materials |
+|------|-------|-----------|
+| 1 | Introduction | [Slides](slides/week01.qmd) |
+| 2 | Topic 2 | |
+| 3 | Topic 3 | |
+
+## Instructor
+
+**Giacomo Lemoli** — [giacomolemoli.github.io](https://giacomolemoli.github.io)

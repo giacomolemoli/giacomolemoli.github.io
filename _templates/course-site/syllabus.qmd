@@ -1,0 +1,36 @@
+---
+title: "Syllabus"
+---
+
+## Course Description
+
+Provide a brief description of the course.
+
+## Learning Objectives
+
+By the end of this course, students will be able to:
+
+1. Objective 1
+2. Objective 2
+3. Objective 3
+
+## Requirements
+
+- **Participation**: 10%
+- **Problem sets**: 40%
+- **Final paper / project**: 50%
+
+## Schedule
+
+| Week | Date | Topic | Reading |
+|------|------|-------|---------|
+| 1 | | Introduction | |
+| 2 | | Topic 2 | |
+
+## Policies
+
+**Attendance**: Regular attendance is expected.
+
+**Academic integrity**: All submitted work must be your own.
+
+**Accessibility**: Please contact the instructor if you need accommodations.

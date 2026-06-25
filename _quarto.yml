@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Giacomo Lemoli"
+  site-url: "https://giacomolemoli.github.io"
+  description: "Academic website of Giacomo Lemoli, Postdoctoral Researcher at Franklin University Switzerland."
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+    right:
+      - icon: envelope
+        href: "mailto:glemoli@fus.edu"
+        aria-label: "Email"
+      - icon: github
+        href: "https://github.com/giacomolemoli"
+        aria-label: "GitHub"
+  page-footer:
+    center: "© 2025 Giacomo Lemoli"
+
+format:
+  html:
+    theme: cosmo
+    css: custom.scss
+    toc: false
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
