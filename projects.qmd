@@ -1,0 +1,59 @@
+---
+title: "Projects"
+description: "Research projects"
+---
+
+Selected research projects.
+
+## DIVIDE
+
+**Summary:** SNSF-funded project led by Oliver Strijbis (Franklin University Switzerland).
+
+DIVIDE studies the effects of secession referenda and interethnic relations in contemporary democracies.
+
+**Links**
+
+- [SNSF grant](https://data.snf.ch/grants/grant/10003605)
+- [Franklin University Switzerland](https://www.fus.edu/)
+- [Oliver Strijbis](https://oliverstrijbis.com/)
+
+---
+
+## Social networks in the Spanish Civil War
+
+**Summary:** Exploring the effects of pre-war networks on war participation and violence.
+
+In this project, a joint work with [Sergi Martínez](https://sergimartinez.github.io/), we are interested in how social network position influences an individual's decision to participate in an insurgency. Does social proximity to ideologically committed individuals or local leaders shape the incentives to take arms? And how do these local incentives interact with the coercive force of the state?
+To study these questions we focus on the pro-Franco mobilization in the province of Navarre during the Spanish Civil War (1936-1939).
+We undertook a major digitization effort of large, untapped archival data, to reconstruct pre-war social and political networks in every village of the province, covering the full voting-age population (insurgents and non-insurgents).
+
+Follow-up projects will explore the relationship between network position and victimization.
+
+The data that have collected or are collecting for this project include:
+
+- A database of combatants in pro-Franco factions (paramilitary groups and the Spanish Army)
+- The full pre-war electoral census of the province (1934)
+- Individual-level data on the conservative elites involved in pro-Franco mobilization, from newly digitized records of pre-war political clubs
+- Individual-level rosters of Republican militants
+- Victim-level data on Francoist repression during and after the war
+- Polling station tallies measuring individual-level participation in the last pre-war election
+
+**Links**
+
+- [Work-in-progress slides (presented at EPSA 2025)](https://giacomolemoli.com/uploads/slides/civil-war-networks/epsa25_jueves.html)
+
+<!-- TODO: Copy image from giacomolemoli/starter-hugo-academic/content/projects/civil-war-networks/featured.png to assets/projects/civil-war-networks.png -->
+<!-- <img src="assets/projects/civil-war-networks.png" alt="Social networks in the Spanish Civil War" class="img-fluid" /> -->
+
+---
+
+## Interethnic Relations and Clientelism in Kenya
+
+**Summary:** Understanding ethnic and partisan identities and attitudes towards clientelism in Kenya.
+
+In this project, joint with [Jeremy Horowitz](https://www.jeremy-horowitz.com/) and [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/home), we study attitudes towards clientelism and its connection with ethnic and partisan identities, using lab-in-the-field and survey experiments.
+
+**Links**
+
+- [Working paper](https://osf.io/preprints/socarxiv/avtqh_v1)
+- [Project repository](https://osf.io/cq89y/)
