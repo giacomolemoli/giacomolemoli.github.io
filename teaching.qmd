@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-description: "Teaching experience and course materials by Giacomo Lemoli"
+description: "Courses and teaching materials"
 ---
 
 <h2>Franklin University Switzerland</h2>
@@ -8,7 +8,7 @@ description: "Teaching experience and course materials by Giacomo Lemoli"
 <ul>
   <li>
     POL-377: International Political Economy
-    <a href="https://giacomolemoli.com/uploads/syllabi/pol-377-spring-2026-syllabus.pdf" class="btn btn-outline-primary btn-sm" target="_blank">Syllabus</a>
+    <a href="https://giacomolemoli.github.io/uploads/syllabus/pol-377-spring-2026-syllabus.pdf" class="btn btn-outline-primary btn-sm" target="_blank">Syllabus</a>
     <a href="https://github.com/giacomolemoli/fus-pol-377" class="btn btn-outline-primary btn-sm" target="_blank">Course material</a>
   </li>
 </ul>
@@ -19,11 +19,9 @@ description: "Teaching experience and course materials by Giacomo Lemoli"
   <li>
     POL-GA 1251: Quantitative Political Analysis II
     <a href="https://github.com/giacomolemoli/quant2-labs-spring-2023" class="btn btn-outline-primary btn-sm" target="_blank">Lab material</a>
-    <a href="https://giacomolemoli.com/uploads/syllabi/quant_2_spring_2023.pdf" class="btn btn-outline-primary btn-sm" target="_blank">Syllabus</a>
   </li>
   <li>
     POL-GA 1120: Quantitative Analysis I
-    <a href="https://giacomolemoli.com/uploads/syllabi/Syllabus_Quant1_fa22.pdf" class="btn btn-outline-primary btn-sm" target="_blank">Syllabus</a>
   </li>
 </ul>
 
@@ -31,15 +29,12 @@ description: "Teaching experience and course materials by Giacomo Lemoli"
 <ul>
   <li>
     POL-UA 300: Power &amp; Politics in America
-    <a href="https://giacomolemoli.com/uploads/syllabi/syl_ppa_2021_fall.pdf" class="btn btn-outline-primary btn-sm" target="_blank">Syllabus</a>
   </li>
   <li>
     POL-UA 850: Introduction to Research Methods for Politics
-    <a href="https://giacomolemoli.com/uploads/syllabi/Syllabus_850_Spring21.pdf" class="btn btn-outline-primary btn-sm" target="_blank">Syllabus</a>
   </li>
   <li>
     POL-UA 500: Introduction to Comparative Politics
-    <a href="https://giacomolemoli.com/uploads/syllabi/UA_500_Comparative_Fall_2020_Syllabus_08_29.pdf" class="btn btn-outline-primary btn-sm" target="_blank">Syllabus</a>
   </li>
   <li>Data Teaching Assistant for the Politics Department</li>
 </ul>

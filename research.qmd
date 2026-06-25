@@ -1,6 +1,5 @@
 ---
 title: "Research"
-description: "Full list of publications and working papers by Giacomo Lemoli"
 ---
 
 ## Published
