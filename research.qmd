@@ -41,8 +41,8 @@ We study the role of perceived threats from other cultures induced by terrorist 
 :::
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12764" class="btn btn-outline-primary btn-sm" target="_blank">Journal version</a>
-<a href="https://giacomolemoli.com/uploads/wp/Terrorist attacks/manuscript.pdf" class="btn btn-outline-primary btn-sm" target="_blank">PDF</a>
-<a href="https://giacomolemoli.com/uploads/wp/Terrorist attacks/appendix.pdf" class="btn btn-outline-primary btn-sm" target="_blank">Online Appendix</a>
+<a href="https://giacomolemoli.github.io/uploads/giavazzi-et-al/manuscript.pdf" class="btn btn-outline-primary btn-sm" target="_blank">PDF</a>
+<a href="https://giacomolemoli.github.io/uploads/giavazzi-et-al/appendix.pdf" class="btn btn-outline-primary btn-sm" target="_blank">Online Appendix</a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550973" class="btn btn-outline-primary btn-sm" target="_blank">Working paper version</a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VA00ZI" class="btn btn-outline-primary btn-sm" target="_blank">Replication materials</a>
 :::
