@@ -28,20 +28,11 @@ Output is written to `_site/`. Do not commit the `_site/` folder — deployment 
 
 ---
 
-## Before first render
-
-Two binary files must be placed manually in the `assets/` directory (they cannot be copied programmatically):
-
-1. **Avatar photo** — copy `content/authors/admin/avatar.jpg` from `giacomolemoli/starter-hugo-academic` → `assets/avatar.jpg`
-2. **CV PDF** — copy `static/uploads/CV_Lemoli.pdf` from `giacomolemoli/starter-hugo-academic` → `assets/CV_Lemoli.pdf`
-
----
 
 ## Adding a new publication
 
-1. Open `research.qmd` and add a new `<li>` entry under the appropriate section (`Publications`, `Working Papers`, or `Work in Progress`).
-2. Open `publications.qmd` and add a new `::: {.pub-entry}` block in the correct section. Include title, authors, journal/status, abstract (inside `<details>`), and any relevant links.
-3. Commit and push — GitHub Actions will rebuild and redeploy the site automatically.
+1. Open `publications.qmd` and add a new `::: {.pub-entry}` block in the correct section. Include title, authors, journal/status, abstract (inside `<details>`), and any relevant links.
+2. Commit and push — GitHub Actions will rebuild and redeploy the site automatically.
 
 ---
 
