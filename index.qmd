@@ -4,8 +4,6 @@ description: "Postdoctoral Researcher at Franklin University Switzerland"
 page-layout: full
 ---
 
-<!-- NOTE: Copy content/authors/admin/avatar.jpg from the starter-hugo-academic repo
-     into assets/avatar.jpg before rendering. -->
 
 ::: {.profile-section}
 
@@ -21,10 +19,8 @@ page-layout: full
 <a href="https://orcid.org/0000-0002-2748-7862" title="ORCID" class="social-icon" target="_blank"><i class="fa-brands fa-orcid"></i></a>
 :::
 
-<a href="assets/CV_Lemoli.pdf" class="btn btn-outline-primary cv-btn" target="_blank"><i class="fa-solid fa-download"></i> Download CV</a>
+<a href="assets/cv_Lemoli.pdf" class="btn btn-outline-primary cv-btn" target="_blank"><i class="fa-solid fa-download"></i> Download CV</a>
 
-<!-- NOTE: Copy static/uploads/CV_Lemoli.pdf from the starter-hugo-academic repo
-     into assets/CV_Lemoli.pdf before rendering. -->
 :::
 
 ::: {.profile-right}
