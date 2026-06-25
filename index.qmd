@@ -8,7 +8,7 @@ page-layout: full
 ::: {.profile-section}
 
 ::: {.profile-left}
-<img src="assets/avatar.jpg" alt="Giacomo Lemoli" class="avatar">
+<img src="assets/avatar.jpg" alt="Giacomo Lemoli" class="avatar" width="110" height="110" style="width:110px;height:110px;border-radius:50%;object-fit:cover;flex-shrink:0;">
 
 ::: {.social-links}
 <a href="mailto:glemoli@fus.edu" title="Email" class="social-icon"><i class="fa-solid fa-envelope"></i></a>
@@ -24,13 +24,6 @@ page-layout: full
 :::
 
 ::: {.profile-right}
-## Giacomo Lemoli {.profile-name}
-
-### Postdoctoral Researcher {.profile-role}
-
-**[Franklin Switzerland](https://www.fus.edu/){target="_blank"}**
-
----
 
 I am a Postdoctoral Researcher at [Franklin Switzerland](https://www.fus.edu/){target="_blank"}, where I work on the SNSF-funded project [DIVIDE](https://data.snf.ch/grants/grant/10003605){target="_blank"}, led by [Oliver Strijbis](https://oliverstrijbis.com/){target="_blank"}. Before that, I was a Research Fellow at the [Institute for Advanced Study in Toulouse](https://www.iast.fr/){target="_blank"}. I hold a PhD in Politics from [New York University](https://as.nyu.edu/politics.html){target="_blank"} and an MSc in Economic and Social Sciences from [Bocconi University](https://www.unibocconi.eu/){target="_blank"}.
 
