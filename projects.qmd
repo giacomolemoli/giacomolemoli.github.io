@@ -40,10 +40,9 @@ The data that have collected or are collecting for this project include:
 
 **Links**
 
-- [Work-in-progress slides (presented at EPSA 2025)](https://giacomolemoli.com/uploads/slides/civil-war-networks/epsa25_jueves.html)
+- [Work-in-progress slides (SPEIN conference 2026)](https://giacomolemoli.github.io/uploads/slides/navarra-1936/20260615_SPEIN.html")
 
-<!-- TODO: Copy image from giacomolemoli/starter-hugo-academic/content/projects/civil-war-networks/featured.png to assets/projects/civil-war-networks.png -->
-<!-- <img src="assets/projects/civil-war-networks.png" alt="Social networks in the Spanish Civil War" class="img-fluid" /> -->
+<img src="assets/projects/civil-war-networks/abaigar_full_network.png" alt="Social networks in the Spanish Civil War" class="img-fluid" />
 
 ---
 
