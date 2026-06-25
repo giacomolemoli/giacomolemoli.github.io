@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  # Replace COURSE-NAME with your course slug (e.g., comp-pols, ipe-2025)
+  title: "Course Title"
+  site-url: "https://giacomolemoli.github.io/COURSE-NAME"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Syllabus"
+        href: syllabus.qmd
+      - text: "Slides"
+        href: slides/week01.qmd
+  page-footer:
+    center: "Giacomo Lemoli · [giacomolemoli.github.io](https://giacomolemoli.github.io)"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard: false

@@ -1,0 +1,41 @@
+---
+title: "Week 1: Introduction"
+subtitle: "Course Title"
+format: revealjs
+---
+
+## Overview
+
+- Course goals and logistics
+- What is [Topic]?
+- Why does it matter?
+
+---
+
+## Background
+
+Brief background on the topic. Use bullet points for key ideas.
+
+- Point 1
+- Point 2
+- Point 3
+
+---
+
+## Key Concepts
+
+**Concept A**: Definition here.
+
+**Concept B**: Definition here.
+
+---
+
+## Discussion
+
+What do we know? What remains unclear?
+
+---
+
+## Next Week
+
+Topic for next week and assigned readings.
