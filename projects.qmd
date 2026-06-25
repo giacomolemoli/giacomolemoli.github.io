@@ -40,7 +40,7 @@ The data that have collected or are collecting for this project include:
 
 **Links**
 
-- [Work-in-progress slides (SPEIN conference 2026)](https://giacomolemoli.github.io/uploads/slides/navarra-1936/20260615_SPEIN.html")
+- [Work-in-progress slides (SPEIN conference 2026)](https://giacomolemoli.github.io/uploads/slides/navarra-1936/20260615_SPEIN.html)
 
 <img src="assets/projects/civil-war-networks/abaigar_full_network.png" alt="Social networks in the Spanish Civil War" class="img-fluid" />
 
