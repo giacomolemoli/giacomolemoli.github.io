@@ -55,7 +55,7 @@ We study the role of perceived threats from other cultures induced by terrorist 
 
 Giacomo Lemoli (2025)
 
-<a href="https://osf.io/preprints/socarxiv/3fbzh_v1" class="btn btn-outline-primary btn-sm" target="_blank">PDF</a>
+<a href="https://osf.io/preprints/socarxiv/3fbzh" class="btn btn-outline-primary btn-sm" target="_blank">PDF</a>
 :::
 
 ---
@@ -77,7 +77,7 @@ Giacomo Lemoli and Gloria Gennaro (2025)
 
 Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch (2025)
 
-<a href="https://osf.io/preprints/socarxiv/avtqh_v1" class="btn btn-outline-primary btn-sm" target="_blank">PDF</a>
+<a href="https://osf.io/preprints/socarxiv/avtqh" class="btn btn-outline-primary btn-sm" target="_blank">PDF</a>
 <a href="https://osf.io/sn4jf" class="btn btn-outline-primary btn-sm" target="_blank">Pre-analysis plan</a>
 :::
 
