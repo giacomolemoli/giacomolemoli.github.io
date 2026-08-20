@@ -7,7 +7,7 @@ description: "Courses and teaching materials"
 <h3>Undergraduate</h3>
 <ul>
   <li>
-  POL 300: Comparative Politics
+  POL 300: Comparative Politics [Course website](https://giacomolemoli.github.io/fus-pol-300){target="_blank"}
   </li>
   <li>
     POL 377: International Political Economy
