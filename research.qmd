@@ -106,14 +106,6 @@ Leonardo Baccini, Paola Giuliano, Giacomo Lemoli, and Shanker Satyanath (2025)
 ## Work in Progress
 
 ::: {.pub-entry}
-**Ethnic Bias and Partisan Bias in Kenya: Evidence from Lab and Survey Experiments**
-
-Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch
-:::
-
----
-
-::: {.pub-entry}
 **Networks and Dynamics of Violent Political Mobilization: Historical Evidence from Spain**
 
 Giacomo Lemoli and Sergi Martínez
