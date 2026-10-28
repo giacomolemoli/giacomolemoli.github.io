@@ -51,6 +51,15 @@ We study the role of perceived threats from other cultures induced by terrorist 
 ## Working Papers
 
 ::: {.pub-entry}
+**Partisan Bias in a Weak-Party System: Evidence from Kenya**
+
+Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch (2026)
+
+<a href="https://osf.io/preprints/socarxiv/q2ce8" class="btn btn-outline-primary btn-sm" target="_blank">PDF</a>
+:::
+
+
+::: {.pub-entry}
 **Linguistic Rights and the Borders of Political Identity**
 
 Giacomo Lemoli (2025)
