@@ -58,6 +58,7 @@ Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch (2026)
 <a href="https://osf.io/preprints/socarxiv/q2ce8" class="btn btn-outline-primary btn-sm" target="_blank">PDF</a>
 :::
 
+---
 
 ::: {.pub-entry}
 **Linguistic Rights and the Borders of Political Identity**
