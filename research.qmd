@@ -1,8 +1,9 @@
 ---
 title: "Research"
+description: "Scientific work"
 ---
 
-## Published
+## Articles
 
 ::: {.pub-entry}
 **Ethnic Media and the Mobilization of Identity**

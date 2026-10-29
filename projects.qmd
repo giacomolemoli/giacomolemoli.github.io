@@ -8,7 +8,7 @@ description: "Selected research projects"
 
 **Summary:** SNSF-funded project led by Oliver Strijbis (Franklin Switzerland).
 
-DIVIDE studies the effects of secession referenda and interethnic relations in contemporary democracies.
+DIVIDE studies the effects of secession referenda and direct democracy on interethnic relations.
 
 **Links**
 
@@ -53,5 +53,5 @@ In this project, joint with [Jeremy Horowitz](https://www.jeremy-horowitz.com/) 
 
 **Links**
 
-- [Working paper](https://osf.io/preprints/socarxiv/avtqh_v1)
+- [Working paper](https://osf.io/preprints/socarxiv/avtqh)
 - [Project repository](https://osf.io/cq89y/)
