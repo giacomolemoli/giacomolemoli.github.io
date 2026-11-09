@@ -1,0 +1,45 @@
+---
+title: "Interethnic Relations and Clientelism in Kenya"
+description: "Understanding ethnic and partisan identities and attitudes towards clientelism in Kenya using experimental methods."
+---
+
+::: {.back-nav}
+[<i class="fa-solid fa-arrow-left"></i> Back to Projects](../projects.qmd)
+:::
+
+::: {.project-detail-meta}
+- **Collaborators:** [Jeremy Horowitz](https://www.jeremy-horowitz.com/){target="_blank"} and [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/home/){target="_blank"}
+- **Topics:** Interethnic relations, discrimination, favoritism, partisanship, polarization, experiments
+- **Status:** In Progress
+:::
+
+## Overview
+
+In this project, joint with [Jeremy Horowitz](https://www.jeremy-horowitz.com/){target="_blank"} and [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/home/){target="_blank"}, we study attitudes towards clientelism and its connection with ethnic and partisan identities in Kenya.
+
+Using lab-in-the-field and survey experiments, the project examines how citizens evaluate clientelistic exchanges, when voters are willing to sanction or reward particularistic distribution, and how ethnic and partisan loyalties interact to shape political accountability in weak-party settings.
+
+## Working Papers
+
+::: {.pub-entry}
+**Partisan Bias in a Weak-Party System: Evidence from Kenya**
+
+Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch (2026)
+
+<a href="https://osf.io/preprints/socarxiv/q2ce8" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-file-pdf"></i> Working Paper (SocArXiv)</a>
+:::
+
+::: {.pub-entry}
+**Penalties for Particularism and Partisanship? Citizens' Preferences for Legal Punishment of Clientelism**
+
+Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch (2025)
+
+<a href="https://osf.io/preprints/socarxiv/avtqh" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-file-pdf"></i> Working Paper (SocArXiv)</a>
+<a href="https://osf.io/sn4jf" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-clipboard-check"></i> Pre-analysis Plan</a>
+:::
+
+## Resources & Links
+
+<div class="project-actions">
+  <a href="https://osf.io/cq89y/" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-database"></i> OSF Project Repository</a>
+</div>

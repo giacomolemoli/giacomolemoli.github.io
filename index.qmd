@@ -29,7 +29,7 @@ I am a Postdoctoral Researcher at [Franklin Switzerland](https://www.fus.edu/){t
 
 In January 2027 I will join the Department of Social Sciences & Humanities at [CUNEF Universidad](https://www.cunef.edu/){target="_blank"} as an Assistant Professor.
 
-I study the social roots (institutions, identities, networks) of political participation and conflict. My current work focuses on the politics of ethnic and linguistic boundaries in modern states and on social influence during and after violence.
+I study the social roots (institutions, identities, networks) of political participation and conflict. My current work focuses on ethnic and linguistic boundaries in modern states and on social influence during and after violence.
 
 I am interested in combining econometrics, data science, and experiments to test theories and enhance measurement.
 

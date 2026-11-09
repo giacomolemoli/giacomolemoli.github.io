@@ -1,0 +1,30 @@
+---
+title: "DIVIDE: Secession Referenda and Interethnic Relations"
+description: "SNSF-funded research project studying the effects of secession referenda and direct democracy on interethnic relations."
+---
+
+::: {.back-nav}
+[<i class="fa-solid fa-arrow-left"></i> Back to Projects](../projects.qmd)
+:::
+
+::: {.project-detail-meta}
+- **Principal Investigator:** [Oliver Strijbis](https://oliverstrijbis.com/){target="_blank"} (Franklin University Switzerland)
+- **Host Institution:** [Franklin Switzerland](https://www.fus.edu/){target="_blank"}
+- **Funding:** [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/grant/10003605){target="_blank"} &mdash; Grant #10003605
+- **Topics:** Interethnic relations, secession, direct democracy, polarization, persuasion, experiments
+- **Status:** In Progress
+:::
+
+## Overview
+
+DIVIDE is a research project funded by the Swiss National Science Foundation (SNSF) that investigates the political, social, and behavioral consequences of direct democracy in ethnically divided societies. Specifically, the project studies how secession referenda and mechanisms of direct popular vote affect interethnic relations, social cohesion, and mutual attitudes between majority and minority communities.
+
+Led by [Oliver Strijbis](https://oliverstrijbis.com/){target="_blank"} at Franklin University Switzerland, DIVIDE uses a combination of experimental and observational empirical designs to examine how votes on territorial sovereignty and minority rights shape political polarization, identity boundaries, and civic engagement across linguistic and regional borders.
+
+## Resources & Links
+
+<div class="project-actions">
+  <a href="https://data.snf.ch/grants/grant/10003605" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-file-contract"></i> SNSF Grant Details</a>
+  <a href="https://www.fus.edu/" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-building-columns"></i> Franklin Switzerland</a>
+  <a href="https://oliverstrijbis.com/" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-globe"></i> Oliver Strijbis's Website</a>
+</div>
