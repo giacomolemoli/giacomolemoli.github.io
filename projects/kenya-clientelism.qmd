@@ -26,7 +26,7 @@ Using lab-in-the-field and survey experiments, the project examines how citizens
 
 Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch (2026)
 
-<a href="https://osf.io/preprints/socarxiv/q2ce8" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-file-pdf"></i> Working Paper (SocArXiv)</a>
+<a href="https://osf.io/preprints/socarxiv/q2ce8" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-file-lines"></i> Working Paper (SocArXiv)</a>
 :::
 
 ::: {.pub-entry}
@@ -34,7 +34,7 @@ Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch (2026)
 
 Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch (2025)
 
-<a href="https://osf.io/preprints/socarxiv/avtqh" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-file-pdf"></i> Working Paper (SocArXiv)</a>
+<a href="https://osf.io/preprints/socarxiv/avtqh" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-file-lines"></i> Working Paper (SocArXiv)</a>
 <a href="https://osf.io/sn4jf" class="btn btn-outline-primary btn-sm" target="_blank"><i class="fa-solid fa-clipboard-check"></i> Pre-analysis Plan</a>
 :::
 
